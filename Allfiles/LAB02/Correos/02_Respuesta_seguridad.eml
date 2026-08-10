@@ -1,0 +1,24 @@
+From: Ana Torres <ana.torres@lab-horizonte.example>
+To: Mateo =?utf-8?q?R=C3=ADos?= <mateo.rios@lab-horizonte.example>,
+ Laura =?utf-8?q?M=C3=A9ndez?= <laura.mendez@lab-horizonte.example>,
+ Diego Salas <diego.salas@proveedor-lab.example>
+Subject: RE: [LAB-HORIZONTE] =?utf-8?q?Revisi=C3=B3n?= de seguridad antes del
+ piloto
+Date: Mon, 24 Aug 2026 15:18:00 +0000
+Message-ID: <lab02-2@lab-horizonte.example>
+In-Reply-To: <lab02-1@lab-horizonte.example>
+References: <lab02-1@lab-horizonte.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Mateo,
+
+Seguridad confirma dos vulnerabilidades de severidad alta. Podemos repetir la=
+s pruebas antes del 31 de agosto de 2026 a las 16:00, siempre que Infraestruc=
+tura aplique el paquete completo y nos avise cuando el ambiente est=C3=A9 lis=
+to.
+
+Si el resultado no es satisfactorio, recomendamos aplazar el piloto.
+
+Ana
