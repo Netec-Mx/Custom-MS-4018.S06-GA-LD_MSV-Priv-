@@ -1,0 +1,22 @@
+From: Mateo =?utf-8?q?R=C3=ADos?= <mateo.rios@lab-horizonte.example>
+To: Ana Torres <ana.torres@lab-horizonte.example>,
+ Laura =?utf-8?q?M=C3=A9ndez?= <laura.mendez@lab-horizonte.example>,
+ Diego Salas <diego.salas@proveedor-lab.example>
+Subject: [LAB-HORIZONTE] =?utf-8?q?Revisi=C3=B3n?= de seguridad antes del
+ piloto
+Date: Mon, 24 Aug 2026 14:05:00 +0000
+Message-ID: <lab02-1@lab-horizonte.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Equipo,
+
+La prueba previa al piloto identific=C3=B3 dos vulnerabilidades de severidad =
+alta. El piloto sigue programado para el 8 de septiembre de 2026. Necesitamos=
+ acordar el plan de correcciones y la nueva prueba antes de decidir si manten=
+emos la fecha.
+
+Por favor, indiquen disponibilidad y dependencias.
+
+Mateo

@@ -1,0 +1,16 @@
+From: Ana Torres <ana.torres@lab-horizonte.example>
+To: Coordinador del Proyecto Horizonte <coordinador@lab-horizonte.example>
+Subject: [LAB-HORIZONTE] Bloqueo =?utf-8?q?cr=C3=ADtico=3A?= retest sin
+ ambiente disponible
+Date: Wed, 26 Aug 2026 13:07:00 +0000
+Message-ID: <lab03-1@lab-horizonte.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+La nueva prueba no puede iniciar porque el ambiente sigue bloqueado. Se neces=
+ita confirmaci=C3=B3n de Infraestructura hoy antes de las 13:00. Si no se lib=
+era, la decisi=C3=B3n GO/NO-GO se aplaza.
+
+Fecha o condici=C3=B3n: Hoy, 13:00
+Impacto declarado: Bloquea la nueva prueba y la decisi=C3=B3n del piloto.
